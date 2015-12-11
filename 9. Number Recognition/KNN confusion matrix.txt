@@ -1,0 +1,13 @@
+This is the confusion matrix for the best set of parameters: K=3 and 'distance' run on 10,000 training examples and 10,000 separate test examples. The columns correspond to what value was predicted (0-9) and the row corresponds to what the actual label was (0-9):
+
+
+[[ 984    0    0    0    0    2    4    0    2    1]
+ [   0 1150    3    0    0    0    0    1    0    0]
+ [  11   19  875    3    1    2    1   17    8    1]
+ [   1    9   16  975    1   15    0    5   16    6]
+ [   0   17    0    0  901    0    5    4    0   38]
+ [   3    2    0   22    3  845   16    4    5   12]
+ [   9    3    0    1    2    4  936    0    2    0]
+ [   0   12    0    0    1    0    0  990    2   18]
+ [   7   18    3   25    8   17    8    2  859   31]
+ [   2    5    0    5   17    5    2   22    3  975]]
